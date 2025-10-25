@@ -1,5 +1,8 @@
 # Remove -main the folder should be named just rs_cinema
 
+This script allows players to play movies and theatrical plays in different cities using a special item that is unique to each city. 
+Additionally, it includes a job-exclusive command that opens a menu to control the curtains of the Saint Denis theater, as well as start and stop plays and movies.
+
 ![image](https://github.com/user-attachments/assets/f95763f6-3353-4419-85a3-435b814e9d67)
 ![image1](https://github.com/user-attachments/assets/307cc5a4-4a3a-48d5-9218-54a2343c48fb)
 ![image2](https://github.com/user-attachments/assets/d347ae7f-8321-41aa-871b-4f17e555bb5a)
